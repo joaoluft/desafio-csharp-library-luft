@@ -1,0 +1,14 @@
+/home/joaoluft/Projetos/desafio_06.06.24/bin/Debug/net8.0/desafio_06.06.24
+/home/joaoluft/Projetos/desafio_06.06.24/bin/Debug/net8.0/desafio_06.06.24.deps.json
+/home/joaoluft/Projetos/desafio_06.06.24/bin/Debug/net8.0/desafio_06.06.24.runtimeconfig.json
+/home/joaoluft/Projetos/desafio_06.06.24/bin/Debug/net8.0/desafio_06.06.24.dll
+/home/joaoluft/Projetos/desafio_06.06.24/bin/Debug/net8.0/desafio_06.06.24.pdb
+/home/joaoluft/Projetos/desafio_06.06.24/obj/Debug/net8.0/desafio_06.06.24.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaoluft/Projetos/desafio_06.06.24/obj/Debug/net8.0/desafio_06.06.24.AssemblyInfoInputs.cache
+/home/joaoluft/Projetos/desafio_06.06.24/obj/Debug/net8.0/desafio_06.06.24.AssemblyInfo.cs
+/home/joaoluft/Projetos/desafio_06.06.24/obj/Debug/net8.0/desafio_06.06.24.csproj.CoreCompileInputs.cache
+/home/joaoluft/Projetos/desafio_06.06.24/obj/Debug/net8.0/desafio_06.06.24.dll
+/home/joaoluft/Projetos/desafio_06.06.24/obj/Debug/net8.0/refint/desafio_06.06.24.dll
+/home/joaoluft/Projetos/desafio_06.06.24/obj/Debug/net8.0/desafio_06.06.24.pdb
+/home/joaoluft/Projetos/desafio_06.06.24/obj/Debug/net8.0/desafio_06.06.24.genruntimeconfig.cache
+/home/joaoluft/Projetos/desafio_06.06.24/obj/Debug/net8.0/ref/desafio_06.06.24.dll
